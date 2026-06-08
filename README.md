@@ -113,9 +113,9 @@ An AI-powered platform designed to enhance assessment integrity through intellig
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Your LinkedIn Link
+💼 LinkedIn: https://www.linkedin.com/in/kothajayaharsha25/
 
-📧 Email: Your Email
+📧 Email: kjayaharsha8@gmail.com
 
 🐙 GitHub: https://github.com/YOUR_USERNAME
 
